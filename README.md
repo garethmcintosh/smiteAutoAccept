@@ -13,7 +13,7 @@ Step 3 - Install Pyautogui using pip
 - Open CMD with admin priveledges and type cd + paste the script directory.
 - type 'pip install pyautogui' and wait for it to install.
 
-Step 4 - Download the zip file from this link
+Step 4 - Download the zip file from this link by clicking the 'clone or download' button then clicking 'download zip'.
 https://github.com/gazza177/smiteAutoAccept
 
 Step 5 - Extract all files to a folder of your own making.
